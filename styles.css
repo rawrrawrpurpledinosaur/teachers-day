@@ -63,14 +63,15 @@ body {
 
 .message {
     margin-top: 10px;
+    margin-bottom: 20px;
     font-size: 20px;
     font-weight: bold;
     color: darkblue;
 }
 
 button {
-    margin-top: 20px;
-    padding: 10px 20px;
+    margin-top: 25px;
+    padding: 00px 20px;
     font-size: 16px;
     cursor: pointer;
 }
